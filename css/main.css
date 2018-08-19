@@ -1,0 +1,15 @@
+p {
+    color: black;
+}
+
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+}
+
+#fruit-collection
+{
+    padding-left: 20px;
+}
